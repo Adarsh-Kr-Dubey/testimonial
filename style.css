@@ -1,0 +1,126 @@
+header{
+    border-bottom:2px solid black;
+    display:flex;
+    height:80px;
+    justify-content:center;
+    justify-content:space-evenly;
+    align-items:center;
+    background-color:purple;
+    position:fixed;
+    top:0px;
+    z-index:1;
+}
+.search{
+    height:70px;
+    width:500px;
+    background-color:transparent;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+#searchbox{
+        height:65px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+input{
+    height:30px;
+    width:450px;
+
+    border:2px solid balck;
+    border-radius:30px;
+    text-align:center;
+}
+.heading{
+    display:flex;
+    justify-content:center;
+    font-family:cursive;
+    height:70px;
+    width:500px;
+    align-items:center;
+    font-size:30px;
+    color:white;
+}
+
+.login{
+    height:70px;
+    width:500px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    text-align:center;
+    justify-content:space-evenly;
+}
+#log{
+    height:30px;
+    width:200px;
+    border:2px solid white;
+    border-radius:30px;
+    font-size:30px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    color:white;
+}
+  
+#sign{
+    height:30px;
+    width:200px;
+    border:2px solid white;
+    border-radius:30px;
+    font-size:30px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    color:white;
+}
+main{
+    height:100vh;
+}
+.exaplanation{
+    height:400px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+.exapl{
+    height:300px;
+    width:800px;
+    color:purple;
+    text-align:center;
+    font-family:cursive;
+    line-height:60px;
+    font-size:20px;
+}
+.review{
+    height:100vh;
+    display:flex;
+    flex-wrap:wrap;
+    padding-top:10px;
+    padding-right:50px;
+    padding-left:100px;
+    padding-bottom:10px;
+    align-items:center;
+
+}
+.same{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height:300px;
+    width:400px;
+    margin:5px;
+    border:2px solid black;
+    border-radius:10px;
+    color:purple;
+    font-size:50px;
+}
+.last{
+    height:100px;
+    font-family:monospace;
+    font-size:30px;
+    color:purple;
+    text-align:center;
+    border-top:2px solid black;
+}
