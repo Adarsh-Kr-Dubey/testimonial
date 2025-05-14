@@ -44,7 +44,6 @@ the quick little fox jumps over the lazy dog
 the quick little fox jumps over the lazy dog 
 tje quick little fox jumps over the lazy dog
 the quick little fox jumps over the lazy dog
-the quick little fox jumps over the lazy dog
 
 
 
