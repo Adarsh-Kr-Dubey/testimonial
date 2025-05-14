@@ -25,4 +25,4 @@ The Quick brown fox jumps over the lazy dog
 the quick brown fox jumps ver the lazy dog 
 the quick brown fox jumps over the lazy dog 
 the quick brown fox jumps over the lazy dog
-the quiick brown fox jumps over the lazy dog
+the quiick brown fox jumps over the lazy 
